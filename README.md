@@ -1,0 +1,2 @@
+# mariadb
+qpython+termux+mariadb
